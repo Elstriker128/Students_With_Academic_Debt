@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\bin\Debug\Student_With_Academic_Dept.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\bin\Debug\Student_With_Academic_Dept.exe
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\bin\Debug\Student_With_Academic_Dept.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\obj\Debug\Student_With_Academic_Dept.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\obj\Debug\Student_With_Academic_Dept.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\obj\Debug\Student_With_Academic_Dept.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\obj\Debug\Student_With_Academic_Dept.exe
+C:\Users\User\OneDrive\Desktop\VSP\Student_With_Academic_Dept\obj\Debug\Student_With_Academic_Dept.pdb
